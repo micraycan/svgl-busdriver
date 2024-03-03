@@ -1,0 +1,2 @@
+-- svgl:server:RemoveMoney (type, amount, reason)
+-- svgl:server:AddMoney (type, amount, reason)
